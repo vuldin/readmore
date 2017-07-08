@@ -1,0 +1,11 @@
+{
+  "name": "readmore",
+  "version": "1.0.0",
+  "description": "render new content on button click",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Joshua Purcell <vuldin@gmail.com>",
+  "license": "ISC"
+}
