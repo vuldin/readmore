@@ -7,5 +7,10 @@
     "dev": "next"
   },
   "author": "Joshua Purcell <vuldin@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "next": "^3.0.1-beta.9",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
 }
